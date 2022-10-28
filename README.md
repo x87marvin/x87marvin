@@ -30,9 +30,7 @@
 <a href = "https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js"/></a>
 <a href = "https://discord.js.org/#/docs/discord.js/main/general/welcome"><img src="https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord"/></a>
 <a href = "https://discordpy.readthedocs.io/en/stable/index.html"><img src="https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord"/></a>
-<a href = "https://www.electronjs.org/docs/latest/"><img src="https://img.shields.io/badge/electron-black?style=flat-square&logo=electron"/></a>
-<a href = "https://expressjs.com/"><img src="https://img.shields.io/badge/express-black?style=flat-square&logo=express"/></a>
-<a href = "https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap"/></a>
+</a>
 
 <!--## 🚀 Languages:
 
@@ -57,16 +55,3 @@
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
-## Donation:
-<p align="left">
-
-<details>
-    <summary>
-        <a href="https://github.com/HideakiAtsuyo/HideakiAtsuyo/blob/master/README.md#donations"><img src="https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png" width="16" height="16"></a> Bitcoin | BTC
-    </summary>
-    lol
-</details>
-
-<!--/p>
-<a href="https://sint0.cf" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>-->
