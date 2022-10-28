@@ -1,6 +1,6 @@
 
 
-![image](https://i.postimg.cc/wMsGvF5Y/dadadadad23131231.png](https://wallpapercave.com/wp/wp6899583.jpg)
+![image](https://wallpapercave.com/wp/wp6899583.jpg)
 
 <p align = "center">
   <a href = "">Website</a> •
