@@ -17,11 +17,11 @@
 				<br>
 			</a>
 
-## 🚀Languages
+## 📓Languages
 <a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple"/></a>
 <a href = "https://developer.mozilla.org/de/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript"/></a>
 
-## 🎉Technologies & Frameworks
+## 📁Technologies & Frameworks
 <a href = "https://devdocs.io/css/"><img src="https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6"/></a>
 <a href = "https://devdocs.io/html/"><img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5"/></a>
 <a href = "https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js"/></a>
