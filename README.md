@@ -29,7 +29,7 @@
 <a href = "https://discordpy.readthedocs.io/en/stable/index.html"><img src="https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord"/></a>
 </a>
 
-<!--## 🚀 Languages:
+
 
 
 <br/>
