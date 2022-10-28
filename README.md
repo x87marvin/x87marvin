@@ -1,6 +1,6 @@
 
 
-![image](https://cdn.discordapp.com/banners/887013509194473472/a_8e3ffa0fd2c20d72d6aa17e685923335.gif?size=4024)
+![image](https://www.pixelstalk.net/wp-content/uploads/images5/4K-Black-Wallpapers-scaled.jpg)
 
 <p align = "center">
   <a href = "">Website</a> •
