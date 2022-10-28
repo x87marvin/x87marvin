@@ -26,8 +26,7 @@
 <a href = "https://devdocs.io/css/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href = "https://devdocs.io/html/"><img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5"/></a>
 <a href = "https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js"/></a>
-<a href = "https://docs.kernel.org/"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]:티스토리]"/></a>
+<a href = "https://docs.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 <a href = "https://discordpy.readthedocs.io/en/stable/index.html"><img src="https://img.shields.io/badge/discord.py-black?style=flat-square&logo=discord"/></a>
 </a>
 
