@@ -3,8 +3,7 @@
 ![image](https://wallpapercave.com/wp/wp6899583.jpg)
 
 <p align = "center">
-  <a href = "">Website</a> •
-  <a href = "">Twitter</a> 
+  <a href = "">Website</a> 
 </p>
 
 ---
