@@ -14,7 +14,7 @@
 ## 🙋‍♂️ Discord
 
 <a href="https://discord.com/users/887013509194473472">
-				<img src="https://discord.c99.nl/widget/theme-1/887013509194473472.png" alt="Discord" />
+				<img src="https://discord.c99.nl/widget/theme-4/887013509194473472.png" alt="Discord" />
 				<br>
 			</a>
 
