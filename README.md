@@ -3,18 +3,18 @@
 ![image]()
 
 <p align = "center">
-  <a href = "https://sint0.cf">Website</a> •
-  <a href = "https://sint0.cf">Twitter</a> 
+  <a href = "">Website</a> •
+  <a href = "">Twitter</a> 
 </p>
 
 ---
 
-**mail: marvin.emich@icamsystems.de 
+**mail: ///
 
 ## 🙋‍♂️ Discord
 
-<a href="https://discord.com/users/831628256561201153">
-				<img src="https://discord.c99.nl/widget/theme-1/1031186187530022943.png" alt="Discord" />
+<a href="https://discord.com/users/887013509194473472">
+				<img src="https://discord.c99.nl/widget/theme-1/887013509194473472.png" alt="Discord" />
 				<br>
 			</a>
 
