@@ -22,7 +22,7 @@
 <a href = "https://developer.mozilla.org/de/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript"/></a>
 
 ## 📁Technologies & Frameworks
-<a href = "https://devdocs.io/css/"><img src="https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6"/></a>
+<a href = "https://devdocs.io/css/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href = "https://devdocs.io/html/"><img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5"/></a>
 <a href = "https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js"/></a>
 <a href = "https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord"/></a>
